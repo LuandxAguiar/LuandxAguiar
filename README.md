@@ -21,7 +21,8 @@
  
    <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="50" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-    <img align="center" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"">
+   <img align="center" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"">
+     <img align="center" src="https://logospng.org/wp-content/uploads/android.jpg" alt="Android">
 
   
  
@@ -35,9 +36,7 @@
   
  <div><h2>Banco de Dados</h2></div>
  <img align="center" alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
- <img align="center" alt="MongoDB" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
- <img align="center" alt="Hiroku" height="55" width="70" src="https://icongr.am/devicon/heroku-original.svg?size=125&color=611111"> 
-  
+
   
  <div><h2>Repositórios</h2></div>
  <img align="center" alt="Git" height="55" width="70" src="https://icongr.am/devicon/git-original.svg?size=148&color=currentColor">
