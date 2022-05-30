@@ -22,7 +22,7 @@
    <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="50" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
    <img align="center" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"">
-     <img align="center" alt="CSS" height="50" width="40"  src="https://cdn.vox-cdn.com/thumbor/YHfKvMFzpSu_j2AY8KoMefG6rTY=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19086219/Android_logo_stacked__RGB_.jpg" alt="Android">
+     <img align="center" alt="CSS"  src="https://cdn.vox-cdn.com/thumbor/YHfKvMFzpSu_j2AY8KoMefG6rTY=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19086219/Android_logo_stacked__RGB_.jpg" alt="Android">
 
   
  
