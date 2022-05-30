@@ -21,7 +21,9 @@
  
    <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="50" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+    <img align="center" alt="CSS" height="50" width="40" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"">
 
+  
  
   
   
