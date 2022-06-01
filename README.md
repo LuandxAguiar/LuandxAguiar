@@ -29,7 +29,7 @@
   
   
   <div><h2>Técnologias Back-End</h2></div>
-  <img align="center" alt="Java" height="30" width="81" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Hibernate" height="70" width="70" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
   <img align="center" alt="Python"  height="80 width="60" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg">
