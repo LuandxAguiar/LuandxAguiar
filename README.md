@@ -31,7 +31,6 @@
   <div><h2>Técnologias Back-End</h2></div>
    <img align="center" alt="java" height="70" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Spring" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img align="center" alt="Hibernate" height="70" width="70" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg">
   <img align="center" alt="Python"  height="80 width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
  
   
