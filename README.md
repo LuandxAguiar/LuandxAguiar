@@ -3,8 +3,7 @@
 
 <h1 font-family="Arial">Luan de Aguiar </h1>
 
-
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6
 <div><h2>Status</h2></div>
 <div allign="center">
   <a href="https://github.com/LuandxAguiar">
