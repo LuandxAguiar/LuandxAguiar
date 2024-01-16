@@ -3,11 +3,7 @@
 
 <h1 font-family="Arial">Luan de Aguiar </h1>
 
-<div allign="center">
-  <a href="https://github.com/LuandxAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuandxAguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-    
-</div>
+
   <div><h2></h2></div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuandxAguiar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
