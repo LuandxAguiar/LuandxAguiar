@@ -4,7 +4,8 @@
 
 - 🧑‍💻: Desenvolvimento de Sistemas - Senai
 - 🌠: Desenvolvedor Back-end
-- 💻: Java | JavaScript | Android 
+- 💻: Java | JavaScript | Android
+- ✏️: Analise e desenvolvimento de sistema - FAM
 
   <table cellspacing="20">
         <tr>
@@ -25,6 +26,9 @@
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="" height="30" width="25" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="left" alt="" height="30" width="25" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
+  <img align="left" alt="" height="30" width="25" src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png">
+
+  
 
 
 
