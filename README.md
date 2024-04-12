@@ -20,10 +20,11 @@
 ##Soft Skills
 
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="left" alt="" height="30" width="25" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="" height="30" width="25" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+
 
 <br>
 <div style="display:flex;align-items:center;justify-content:center;">
