@@ -45,6 +45,6 @@
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LuandxAguiar&hide=html&layout=compact&theme=highcontrast)](https://github.com/LuandxAguiar/github-readme-stats)
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luan-de-aguiar-190b53168/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](luandeaguiar2013@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/LuandxAguiar)
+[![Linkedin](https://img.shields.io/badge/-Luan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-de-aguiar-190b53168/)](https://www.linkedin.com/in/luan-de-aguiar-190b53168/)
+[![Gmail Badge](https://img.shields.io/badge/-luandeaguiar2013@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](luandeaguiar2013@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/LuandxAguiar?label=follow&style=social)](https://github.com/LuandxAguiar)
