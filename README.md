@@ -7,39 +7,48 @@
 - 💻: Java | JavaScript | Android
 - ✏️: Analise e desenvolvimento de sistema - FAM
 
-  <table cellspacing="20">
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuandxAguiar&layout=compact&theme=dracula&langs_count=8&show_icons=true" alt="Top Languages" width="300" height="200" />
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=LuandxAguiar&theme=dracula&show_icons=true" alt="GitHub Stats" width="300" height="200" />
-            </td>
-        </tr>
-    </table>
-<br>
-<hr>
+## Minhas Skills
 
-<h1>Soft Skills</h1>
-<br>
-  <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="left" alt="" height="30" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="left" alt="" height="30" width="25" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="left" alt="" height="30" width="25" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
-  <img align="left" alt="" height="30" width="75" src="https://www.primefaces.org/wp-content/uploads/2018/05/primetek_logo.png">
+**Aplicações e dados**
 
-  
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
+**Utilidades**
 
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<br>
-<br>
-<div style="display:flex;align-items:center;justify-content:center;">
-	<a href="https://www.linkedin.com/in/luan-de-aguiar-190b53168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  <h3>luandeaguiar2013@gmail.com</h2>
-<br>
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+<a
+  <img src="https://github-readme-stats.vercel.app/api?username=LuandxAguiar&theme=dracula&show_icons=true" alt="GitHub Stats" width="300" height="200" />
+a/>
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luan-de-aguiar-190b53168/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](luandeaguiar2013@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/LuandxAguiar)
