@@ -40,9 +40,9 @@
 
 <br/>
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=highcontrast)](https://github.com/LuandxAguiar/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=LuandxAguiar&theme=highcontrast)](https://github.com/LuandxAguiar/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=highcontrast)](https://github.com/LuandxAguiar/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LuandxAguiar&hide=html&layout=compact&theme=highcontrast)](https://github.com/LuandxAguiar/github-readme-stats)
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luan-de-aguiar-190b53168/)
