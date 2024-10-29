@@ -40,13 +40,9 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=highcontrast)](https://github.com/LuandxAguiar/github-readme-stats)
 
-<a
-  <img src="https://github-readme-stats.vercel.app/api?username=LuandxAguiar&theme=dracula&show_icons=true" alt="GitHub Stats" width="300" height="200" />
-a/>
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=highcontrast)](https://github.com/LuandxAguiar/github-readme-stats)
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luan-de-aguiar-190b53168/)
