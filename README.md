@@ -2,7 +2,7 @@
 ## Luan de Aguiar
 
 
-- 🧑‍💻: Desenvolvimento de Sistemas - Senai
+- 🧑‍💻: Desenvolvimento de Sistemas - Senai - Técnico
 - 🌠: Desenvolvedor Back-end
 - 💻: Java | JavaScript | Android
 - ✏️: Analise e desenvolvimento de sistema - FAM
