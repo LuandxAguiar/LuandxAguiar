@@ -70,4 +70,4 @@
 ---
 
 🎯 Sempre em busca de evoluir como desenvolvedor e entregar soluções eficientes e criativas.  
-🚀 *Let's code!*
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end+Java;Apaixonado+por+tecnologia+e+inovação;Construindo+APIs+robustas+e+inteligentes)
