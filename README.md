@@ -1,48 +1,73 @@
+<h1 align="center">Olá, eu sou o Luan de Aguiar 👋</h1>
 
-## Luan de Aguiar
+<p align="center">
+  👨‍💻 Desenvolvedor Back-end focado em Java, APIs REST e sistemas Web e Mobile. <br>
+  📍 Vargem Grande Paulista - SP | 💼 Aberto a oportunidades presenciais e remotas
+</p>
 
+---
 
-- 🧑‍💻: Desenvolvimento de Sistemas - Senai - Técnico
-- 🌠: Desenvolvedor Back-end
-- 💻: Java | JavaScript | Android
-- ✏️: Analise e desenvolvimento de sistema - FAM
+## 🚀 Sobre mim
 
-## Minhas Skills
+- 🎓 **Técnico em Desenvolvimento de Sistemas** pelo SENAI
+- 💻 **Graduando em Análise e Desenvolvimento de Sistemas** (FAM)
+- 🔧 Experiência com **Java | Spring Boot | Android | JSF | PrimeFaces**
+- 🧠 Entusiasta de automação, APIs, integração de sistemas e clean code
 
-**Aplicações e dados**
+---
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+## 🛠️ Minhas Skills
 
-**Utilidades**
+### ⚙️ Linguagens & Frameworks
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000?style=flat&logo=springboot)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-000?style=flat&logo=react)
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+### 🗃️ Banco de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat&logo=sqlite)
 
-**DevOps**
+### 🔌 Ferramentas & APIs
+![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-000?style=flat&logo=insomnia)
+![JasperReports](https://img.shields.io/badge/-JasperReports-000?style=flat&logoColor=blue)
+![Tomcat](https://img.shields.io/badge/-Apache_Tomcat-000?style=flat&logo=apachetomcat)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+### 🛠️ DevOps & Versionamento
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+### 💻 IDEs & Ferramentas
+![VSCode](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visualstudiocode)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?style=flat&logo=eclipseide)
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
+![Trello](https://img.shields.io/badge/-Trello-000?style=flat&logo=trello)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+---
 
-<br/>
+## 📊 GitHub Stats
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LuandxAguiar&hide=html&layout=compact&theme=highcontrast)](https://github.com/LuandxAguiar/github-readme-stats)
-## Onde me encontrar
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuandxAguiar&show_icons=true&theme=dark&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuandxAguiar&layout=compact&theme=dark"/>
+</div>
 
-[![Linkedin](https://img.shields.io/badge/-Luan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-de-aguiar-190b53168/)](https://www.linkedin.com/in/luan-de-aguiar-190b53168/)
-[![Gmail Badge](https://img.shields.io/badge/-luandeaguiar2013@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](luandeaguiar2013@gmail.com)
+---
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-de-aguiar-190b53168/)
+[![Email](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:luandeaguiar2013@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/LuandxAguiar?label=follow&style=social)](https://github.com/LuandxAguiar)
+
+---
+
+🎯 Sempre em busca de evoluir como desenvolvedor e entregar soluções eficientes e criativas.  
+🚀 *Let's code!*
