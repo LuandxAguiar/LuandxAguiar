@@ -40,8 +40,6 @@
 
 <br/>
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=LuandxAguiar&theme=highcontrast)](https://github.com/LuandxAguiar/github-readme-stats)
-
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LuandxAguiar&hide=html&layout=compact&theme=highcontrast)](https://github.com/LuandxAguiar/github-readme-stats)
 ## Onde me encontrar
 
