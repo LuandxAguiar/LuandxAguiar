@@ -1,5 +1,7 @@
-<h1 align="center">Olá, eu sou o Luan de Aguiar 👋</h1>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end+Java;Apaixonado+por+tecnologia+e+inovação;Construindo+APIs+robustas+e+inteligentes)
+
+
+<h1 align="center">Olá, eu sou o Luan de Aguiar 👋</h1>
 
 <p align="center">
  <br>
