@@ -2,7 +2,7 @@
 
 <p align="center">
   👨‍💻 Desenvolvedor Back-end focado em Java, APIs REST e sistemas Web e Mobile. <br>
-  📍 Vargem Grande Paulista - SP | 💼 Aberto a oportunidades presenciais e remotas
+  📍 Vargem Grande Paulista - SP 
 </p>
 
 ---
